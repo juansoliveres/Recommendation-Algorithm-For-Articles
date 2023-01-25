@@ -1,1 +1,2 @@
-# Articles-Recommendation-Algorithm-
+# Recommendation-Algorithm-For-Articles
+The goal of this project is to build a recommendation algorithm to come up with suggestions for our readers. In this case we propose three different methods, a non-personalized recommender, a manually implemented collaborative filtering algorithm and a collaborative filtering approach implemented through the surprise library. We will compare the quality of its recommendations and evaluate the 
